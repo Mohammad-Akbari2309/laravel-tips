@@ -1,6 +1,6 @@
-# Laravel Tips
+# My laravel tips
 
-Awesome Laravel tips and tricks for all artisans. PR and ideas are welcome!  
+Awesome Laravel tips and tricks for all artisans. PR and ideas are welcome!!!
 An idea by [PovilasKorop](https://github.com/PovilasKorop) and [MarceauKa](https://github.com/MarceauKa).
 
 Hey, like these tips? Also, check out my premium [Laravel courses](https://laraveldaily.teachable.com/).
@@ -30,3 +30,5 @@ __Update 05 February 2022__: Currently there are __260 tips__ divided into 14 se
 - [Log and debug](Log_and_Debug.md) (5 tips)
 - [API](Api.md) (4 tips)
 - [Other](Other.md) (50 tips)
+
+# Edit by Mohammad Akbari xD
